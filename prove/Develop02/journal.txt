@@ -1,0 +1,4 @@
+Date,PromptText,EntryText
+5/2/2024 10:43:18 PM,What was the best part of my day?,Playing football
+5/2/2024 10:43:51 PM,Who was the most interesting person I interacted with today?,God
+5/2/2024 10:48:26 PM,What was the strongest emotion I felt today?,Anger
